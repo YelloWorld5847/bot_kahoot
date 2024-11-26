@@ -2,3 +2,5 @@
 .idea
 pyoxidizer.bzl
 build
+requirements.txt
+dist
