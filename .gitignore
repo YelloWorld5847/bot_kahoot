@@ -1,6 +1,6 @@
 .venv
 .idea
-pyoxidizer.bzl
 build
+pyoxidizer.bzl
 requirements.txt
-dist
+autonome.py
