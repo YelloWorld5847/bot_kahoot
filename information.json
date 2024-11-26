@@ -1,0 +1,44 @@
+{
+    "test_bot": {
+        "Vrai ou Faux ?": "faux",
+        "Question 1": "Réponse A",
+        "Question 2": "Réponse B"
+    },
+    "https://kahoot.it/challenge/05899043?challenge-id=774f81ed-57ef-4aa3-be3f-6d25069c843f_1729950880280": {
+        "Vrai ou Faux ?": "vrai",
+        "Question 1": "Réponse A",
+        "Question 3": "Réponse D"
+    },
+    "https://kahoot.it/challenge/07188578?challenge-id=b33c347a-b0a1-47a0-a1af-d7938a01ddd7_1728582525127&authuser=4": {
+        "Ma box Internet me propose plusieurs modes de chiffrage pour me connecter en WiFi. Lequel dois-je choisir ?": "WPA2 AES/PSK",
+        "Lorsque je me connecte à un hotspot WiFi ...": "il peut s’agir d’un faux point d’accès",
+        "Quelle bonne pratique mettre en œuvre pour assurer la sécurité de mes mots de passe ?": "utiliser un mot de passe différent pour chaque accès",
+        "Quelle technologie permet de créer une communication sécurisée entre deux réseaux ?": "VPN",
+        "J’ai un MacBook, je ne peux donc pas attraper de virus ...": "faux",
+        "Vous devez systématiquement donner votre accord avant de faire partie d’un réseau de botnets ...": "faux",
+        "Citer une bonne pratique de configuration de son antivirus ...": "tenir son antivirus à jour",
+        "Les mises à jour logicielles servent à améliorer les logiciels et à corriger les failles de sécurité ...": "vrai",
+        "Comment protéger la confidentialité de mes données ?": "en les chiffrant",
+        "Lorsque \"https\" apparaît dans la barre d'adresse de mon navigateur Internet ...": "Les échanges de données entre le site Web et mon navigateur sont chiffrés",
+        "Parce que vous respectez le RGPD, vous êtes protégé en matière de cybersécurité ...": "faux",
+        "Mon antivirus est quotidiennement mis à jour ...": "mon ordinateur peut quand même attraper des virus",
+        "Un CryptoLocker est ...": "un virus qui chiffre les fichiers",
+        "Une attaque DDOS signifie ...": "Distributed Denial Of Service"
+    },
+    "https://kahoot.it/challenge/09333972?challenge-id=b33c347a-b0a1-47a0-a1af-d7938a01ddd7_1729147448495&authuser=4": {
+        "Ma box Internet me propose plusieurs modes de chiffrage pour me connecter en WiFi. Lequel dois-je choisir ?": "WPA2 AES/PSK",
+        "Lorsque je me connecte à un hotspot WiFi ...": "il peut s’agir d’un faux point d’accès",
+        "Quelle bonne pratique mettre en œuvre pour assurer la sécurité de mes mots de passe ?": "utiliser un mot de passe différent pour chaque accès",
+        "Quelle technologie permet de créer une communication sécurisée entre deux réseaux ?": "VPN",
+        "J’ai un MacBook, je ne peux donc pas attraper de virus ...": "faux",
+        "Vous devez systématiquement donner votre accord avant de faire partie d’un réseau de botnets ...": "faux",
+        "Citer une bonne pratique de configuration de son antivirus ...": "tenir son antivirus à jour",
+        "Les mises à jour logicielles servent à améliorer les logiciels et à corriger les failles de sécurité ...": "vrai",
+        "Comment protéger la confidentialité de mes données ?": "en les chiffrant",
+        "Lorsque \"https\" apparaît dans la barre d'adresse de mon navigateur Internet ...": "Les échanges de données entre le site Web et mon navigateur sont chiffrés",
+        "Parce que vous respectez le RGPD, vous êtes protégé en matière de cybersécurité ...": "faux",
+        "Mon antivirus est quotidiennement mis à jour ...": "mon ordinateur peut quand même attraper des virus",
+        "Un CryptoLocker est ...": "un virus qui chiffre les fichiers",
+        "Une attaque DDOS signifie ...": "Distributed Denial Of Service"
+    }
+}
